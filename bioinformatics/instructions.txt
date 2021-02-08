@@ -1,0 +1,3 @@
+conda activate bioinformatics
+cd /home/alparslan/Desktop/bioinformatics
+python main.py
